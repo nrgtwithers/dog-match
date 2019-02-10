@@ -1,3 +1,39 @@
+# DogMatch
+GWU Final Team Project
+
+**Team Members:** Jalia Evans, Fernanda Garcia, Munguntsetseg Erdenebat & Nina Rose Withers
+
+## Overview
+
+This assignment is to provide users the ability to take a test to find perfect canine companion for them. It will allow them to see information based on their match or look into the a breed they're already interested in. 
+
+It will also, allow them to see local rescues and breeders of the perfect canine companion on a map. 
+
+### Tasks
+
+1. Brainstorm on Ideas (Name, Technologies to use, Framework to utilize, etc.)
+1. Figure out what new technologies to utilize for this project.
+1. Create User Story / Elevator Pitch / Wireframe
+1. Get API & Dataset for Breeds
+1. Pseudocode everything!
+1. Figure out which framework we would like to utilize
+1. Set up Frontend / UI
+1. Create / Connect all Backend
+1. Test & Debug
+1. Deploy to Heroku
+
+#### Technologies 
+
+- MongoDB
+- Express
+- React JS
+- Node JS
+
+#### Framework
+- ?
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
