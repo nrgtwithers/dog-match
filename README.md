@@ -34,6 +34,9 @@ It will also, allow them to see local rescues and breeders of the perfect canine
 
 ---
 
+#### API Key
+- 300cb21456a9656c61757fb75d958a79
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
